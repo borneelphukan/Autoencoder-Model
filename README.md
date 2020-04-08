@@ -11,3 +11,6 @@ The major applications of Autoencoders are:
 3. Anomaly detection in text or dataset.
 
 This repository contains the application of autoencoder in MNIST Handwritten Digit dataset to recreate the existing handwritten data with the highest accuracy as possible. This is however my first practical experience with autoencoders for which I prefered to work with the basic widely used handwritten digit dataset.
+
+In order to test the autoencoder model, kindly ensure that you have python 3.7 and Tensorflow 2.0.0 and above working in your system.
+train the algorithm using the command "python train.py". Your output shall be generated in the "recreated_data.png" file.
